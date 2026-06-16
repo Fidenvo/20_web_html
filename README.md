@@ -11,7 +11,7 @@ Cấu trúc repo đề xuất:
 
 TODO: Tự viết website hoàn chỉnh, không nộp một file rỗng hoặc code copy sẵn.
 -->
-2. Nội dung bài:
+ Nội dung bài:
 2.1. Cấu trúc tài liệu HTML
 Tài liệu HTML là đơn vị cơ bản của một trang web. Trình duyệt đọc tài liệu
 này để hiểu cấu trúc nội dung, thông tin cấu hình và các tài nguyên liên quan. Khi
